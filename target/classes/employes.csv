@@ -16,7 +16,7 @@ C12345,aubert,michel,05/09/2018,xxx,150000.0,100
 C12345,aubert,michel,05/09/2018,2200.5,xxx,100
 C12345,aubert,michel,05/09/2018,2200.5,150000.0,xxx
 T12,dupont,pierre,12/03/2003,1700.5,5,M00001
-T12345,dupont,pierre,12/03/2003,1700.5,5
+T12345,dupont,pierre,12/03/2003,1700.5,6
 T12345,dupont,pierre,12/03/2003,1700.5,5,M00001,dfgdfg,dfgdfg
 T12345,dupont,pierre,12/03/XX,1700.5,5,M00001
 T12345,dupont,pierre,12/03/2003,xxx,5,M00001
