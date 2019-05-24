@@ -252,6 +252,7 @@ public class MyRunner implements CommandLineRunner {
         if (!technicienField[2].matches(REGEX_PRENOM)){
             throw new BatchException("la chaîne de caractère n'est pas un prénom");
         }
+        
         try {
             Integer.parseInt(technicienField[5]);
         }catch (Exception e){
