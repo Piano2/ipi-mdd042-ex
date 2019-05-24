@@ -62,7 +62,7 @@ public class Technicien extends Employe implements Comparable<Technicien> {
 	}
 
 	@Override
-	public void setSalaire(Double salaire) {
+	public void setSalaire(Double salaire)  {
 		super.setSalaire( salaire * (1 + (double) grade / 10));
 	}
 
